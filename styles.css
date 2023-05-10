@@ -124,11 +124,11 @@ main {
 }
 
 .lista > a {
-    background-image: url(./img/facebook.png);
+    background-image: url(facebook.png);
 }
 
 .lista > a + a {
-    background-image: url(./img/instagram.png);
+    background-image: url(instagram.png);
 }
 
 .lista a {
