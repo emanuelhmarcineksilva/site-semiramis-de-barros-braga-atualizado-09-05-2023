@@ -125,7 +125,7 @@ main {
 }
 
 .lista > a {
-    background-image: url(./img/WhatsApp-logo.png);
+    background-image: url(WhatsApp-logo.png);
 }
 
 .lista a:hover {
