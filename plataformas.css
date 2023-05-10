@@ -103,27 +103,27 @@ main {
 }
 
 .lista > a {
-    background-image: url(./plataformas/Desafio\ Paraná.png);
+    background-image: url(Desafio\ Paraná.png);
 }
 
 .lista > a + a {
-    background-image: url(./plataformas/Edu\ Tech.png);
+    background-image: url(Edu\ Tech.png);
 }
 
 .lista > a + a + a {
-    background-image: url(./plataformas/Inglês\ Paraná\ comprido.png);
+    background-image: url(Inglês\ Paraná\ comprido.png);
 }
 
 .lista > a + a + a + a {
-    background-image: url(./plataformas/Leia\ Paraná.png);
+    background-image: url(Leia\ Paraná.png);
 }
 
 .lista > a + a + a + a + a {
-    background-image: url(./plataformas/Matemática\ Paraná.png);
+    background-image: url(Matemática\ Paraná.png);
 }
 
 .lista > a + a + a + a + a + a {
-    background-image: url(./plataformas/Redação\ Paraná.png);
+    background-image: url(Redação\ Paraná.png);
 }
 
 .lista a {
